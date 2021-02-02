@@ -2,4 +2,4 @@
 Experimenting with pair programming
 ## Participants:
 - MJ
-- [Blas Toth] (https://github.com/BlasToth)
+- [Blas Toth](https://github.com/BlasToth)
